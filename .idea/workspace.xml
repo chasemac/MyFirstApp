@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c1d5a33-321a-4016-9329-22402493b159" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/my-first-app/src/components/PlaceInput/PlaceInput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-first-app/src/components/PlaceList/PlaceList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-first-app/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-app/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-app/src/components/ListItem/ListItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-app/src/components/ListItem/ListItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-first-app/src/components/PlaceList/PlaceList.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-app/src/components/PlaceList/PlaceList.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +20,8 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my-first-app/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            <state relative-caret-position="317">
+              <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -46,7 +43,14 @@
       </file>
       <file leaf-file-name="PlaceList.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my-first-app/src/components/PlaceList/PlaceList.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="ListItem.js" pinned="false" current-in-tab="false">
@@ -116,6 +120,7 @@
         <option value="$PROJECT_DIR$/my-first-app/index.js" />
         <option value="$PROJECT_DIR$/my-first-app/src/components/ListItem/ListItem.js" />
         <option value="$PROJECT_DIR$/my-first-app/src/components/PlaceInput/PlaceInput.js" />
+        <option value="$PROJECT_DIR$/my-first-app/src/components/PlaceList/PlaceList.js" />
         <option value="$PROJECT_DIR$/my-first-app/App.js" />
       </list>
     </option>
@@ -221,12 +226,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523465574999</updated>
       <workItem from="1523465576950" duration="989000" />
-      <workItem from="1523471118992" duration="8875000" />
+      <workItem from="1523471118992" duration="9690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9864000" />
+    <option name="totallyTimeSpent" value="10679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1921" y="23" width="1417" height="947" extended-state="0" />
@@ -305,16 +310,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-first-app/app.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-first-app/src/components/PlaceList/PlaceList.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/my-first-app/src/components/PlaceInput/PlaceInput.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -325,10 +320,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/my-first-app/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-first-app/src/components/PlaceList/PlaceList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/my-first-app/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        <state relative-caret-position="317">
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
